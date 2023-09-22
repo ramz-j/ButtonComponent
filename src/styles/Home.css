@@ -1,0 +1,17 @@
+.btns {
+    padding: 0px 0px 40px 0px;
+  }
+  
+h4 {
+  margin: 40px 0px 20px 0px;
+  color: rgb(66, 70, 71);
+  font-family: "Poppins","Lato",sans-serif;
+}
+
+.line {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+  
